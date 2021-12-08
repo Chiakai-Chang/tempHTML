@@ -14,4 +14,13 @@
 
 * ## 「e化報案」關鍵字詞雲 (By 戰隊長:徐思勤)
   ### [https://chiakai-chang.github.io/tempHTML/keyE.html](https://chiakai-chang.github.io/tempHTML/keyE.html)
+  
+# # Chiakai's 筆記區
 
+* ## 資安事件調查處理 (20211206~20211208)
+  * Day 1
+  ### [https://hackmd.io/@chiakai/SecurityCLass_1](https://hackmd.io/@chiakai/SecurityCLass_1)
+  * Day 2
+  ### [https://hackmd.io/@chiakai/SecurityCLass_2](https://hackmd.io/@chiakai/SecurityCLass_2)
+  * Day 3
+  ### [https://hackmd.io/@chiakai/SecurityCLass_3](https://hackmd.io/@chiakai/SecurityCLass_3)

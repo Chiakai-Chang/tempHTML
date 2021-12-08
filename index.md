@@ -14,8 +14,9 @@
 
 * ## 「e化報案」關鍵字詞雲 (By 戰隊長:徐思勤)
   ### [https://chiakai-chang.github.io/tempHTML/keyE.html](https://chiakai-chang.github.io/tempHTML/keyE.html)
-  
-# # Chiakai's 筆記區
+
+
+# Chiakai's 筆記區
 
 * ## 資安事件調查處理 (20211206~20211208)
   * Day 1

@@ -5,8 +5,8 @@
    * 請參考教學: [使用指引](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)
 
 * ## [大量同格式JSON彙整小幫手](https://colab.research.google.com/drive/1w1ApO_p3zh38ocU6jW5di3LXfeQWA3t6?usp=sharing)
-   *  現在的網頁大多都有基於 MVC 等架構，在呈現的網頁以外，還會有 API 可以去存取資料(大多為 JSON 格式)來更新顯示內容。
-   *  因為前述 JSON 給的資料，往往包含比網頁上肉眼能看到得「更豐富」，而且格式也更容易整理，所以有個小幫手可以幫忙將這些 Json 接收下來，一起轉換成更容易操作的 excel 格式，豈不美哉？
+   *  現在的網頁大多都基於 MVC 等架構，除了呈現的網頁以外，背後還會有 API 去存取資料(大多為 JSON 格式)來更新顯示內容。
+   *  因為前述 JSON 給的資料往往比網頁上肉眼能看到得「更豐富」，且格式也更容易整理，所以有個小幫手可以幫忙將這些 Json 接收下來，一起轉換成更容易操作的 excel 格式，豈不美哉？
 
 * ## [AWS IP 確認小幫手](https://colab.research.google.com/drive/1T7vX0L2gs9VCNzwzSpvsI84rGTFRXl3R?usp=sharing)
    *  若大家有遇到 ip 是 amazon (亞馬遜) 的，可以使用這個小幫手來確認 IP 是 AWS 的什麼雲端服務

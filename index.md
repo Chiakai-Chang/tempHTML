@@ -20,6 +20,17 @@
  
   </details>
 
+* ## [文字加解密技術](https://colab.research.google.com/drive/1lq6E8jFDKuXveji5zJmzl7m7hT3o3503?usp=sharing)
+
+   <details> <summary展開</summary>
+
+   * 整理曾經遇到的文字加密技術與解密方法
+   * 包含：
+      * 凱撒加密
+      * 二進制轉換 (資安社群常用)
+ 
+  </details>
+
 ## 資料分析成果展示
 
 <details> <summary展開</summary>

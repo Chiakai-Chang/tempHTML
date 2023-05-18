@@ -13,6 +13,10 @@
 * ## [地址轉經緯度小幫手](https://colab.research.google.com/drive/1BWleXRAN1vM82-k9lz-O78fPMqBZf581?usp=sharing)
   * 借用內政部國土測繪中心「國土測繪圖資服務雲」之電子地圖，查詢任意地址之完整行政區(至村里鄰)及經緯度。 
 
+* ## [UserAgent 解析小幫手](https://colab.research.google.com/drive/1IP1t7yFuIYLnTttwcn_V5fy3XkJASk2d?usp=sharing)
+  * 在做 log 分析時，常常都會遇到 UserAgent 這個資料，該資料通常包含了其應用程式類型(瀏覽器)、作業系統、軟體供應商……等等，有時還會包含軟體修訂版本等資訊。
+  * 因該字串不容易閱讀，所以特別以小程式幫忙解析重點。
+
 * ## [封包 headers 文字轉 dict 小幫手](https://colab.research.google.com/drive/15auzjfvWt6HICDyKtTDEFfKpoT-TlG7s?usp=sharing)
    * 使用 DevTools 複製找到並複製封包有關 Requests Headers 的文字內容
    * 貼到程式後，即可整理成方便使用的 dict 格式，並自動將 cookie 分離
@@ -27,7 +31,6 @@
 ## 資料分析成果展示
 
 <details>
- 
 * ## 模擬「臺中地區博奕熱區變化趨勢」地圖 (可篩選)
    ### [https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html](https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html)
 
@@ -42,13 +45,11 @@
 
 * ## 「e化報案」關鍵字詞雲 (By 戰隊長:徐思勤)
    ### [https://chiakai-chang.github.io/tempHTML/keyE.html](https://chiakai-chang.github.io/tempHTML/keyE.html)
- 
 </details> 
 
 # Chiakai's 筆記區
 
 <details>
- 
 * ## 資安事件調查處理 (20211206~20211208)
    ### Day 1：[https://hackmd.io/@chiakai/SecurityCLass_1](https://hackmd.io/@chiakai/SecurityCLass_1)
    ### Day 2：[https://hackmd.io/@chiakai/SecurityCLass_2](https://hackmd.io/@chiakai/SecurityCLass_2)
@@ -57,7 +58,6 @@
 * ## [讓 Colab 執行時永不斷線的秘密](https://colab.research.google.com/drive/1AypPlaUj0Ysz0H8YG6Op1XZ8nhfOi-Qn?usp=sharing) 
  
 * ## [解決分母、分子超大導致分數無法進行四維運算問題](https://colab.research.google.com/drive/1z1pmV2sEoMo-Hhlc9JTnLApYuCLS4veC?usp=sharing)
-   
 </details> 
 
 ### site is published at https://chiakai-chang.github.io/tempHTML/

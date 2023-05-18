@@ -2,34 +2,24 @@
 
 ## 小幫手程式
 * ## [臉書好友整理神器](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
-
-   <details>
- 
    * 請參考教學: [使用指引](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)
- 
-   </details>
-  
+
 * ## [AWS IP 確認小幫手](https://colab.research.google.com/drive/1T7vX0L2gs9VCNzwzSpvsI84rGTFRXl3R?usp=sharing)
-
-   <details>
-
    *  若大家有遇到 ip 是 amazon (亞馬遜) 的，可以使用這個小幫手來確認 IP 是 AWS 的什麼雲端服務
       * 亦可參考 RyanLabs 提供之線上查詢工具：AWS IP Range Checker/Lookup Tool
          * 該工具僅能查詢 IPv4 的資料
    * 本程式係從官方：AWS IP address ranges 下載最新之 IP 資訊 (Json 檔，含 IPv4 與 IPv6) 進行比對，為最即時、最準確之資料
- 
-  </details>
+
+* ## [封包 headers 文字轉 dict 小幫手](https://colab.research.google.com/drive/15auzjfvWt6HICDyKtTDEFfKpoT-TlG7s?usp=sharing)
+   * 使用 DevTools 複製找到並複製封包有關 Requests Headers 的文字內容
+   * 貼到程式後，即可整理成方便使用的 dict 格式，並自動將 cookie 分離
 
 * ## [文字加解密技術](https://colab.research.google.com/drive/1lq6E8jFDKuXveji5zJmzl7m7hT3o3503?usp=sharing)
-
-   <details>
-
    * 整理曾經遇到的文字加密技術與解密方法
    * 包含：
       * 凱撒加密
       * 二進制轉換 (資安社群常用)
- 
-  </details>
+
 
 ## 資料分析成果展示
 

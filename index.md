@@ -3,7 +3,7 @@
 ## 小幫手程式
 * ## [臉書好友整理神器](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
 
-   <details> <summary展開</summary>
+   <details>
  
    * 請參考教學: [使用指引](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)
  
@@ -11,7 +11,7 @@
   
 * ## [AWS IP 確認小幫手](https://colab.research.google.com/drive/1T7vX0L2gs9VCNzwzSpvsI84rGTFRXl3R?usp=sharing)
 
-   <details> <summary展開</summary>
+   <details>
 
    *  若大家有遇到 ip 是 amazon (亞馬遜) 的，可以使用這個小幫手來確認 IP 是 AWS 的什麼雲端服務
       * 亦可參考 RyanLabs 提供之線上查詢工具：AWS IP Range Checker/Lookup Tool
@@ -22,7 +22,7 @@
 
 * ## [文字加解密技術](https://colab.research.google.com/drive/1lq6E8jFDKuXveji5zJmzl7m7hT3o3503?usp=sharing)
 
-   <details> <summary展開</summary>
+   <details>
 
    * 整理曾經遇到的文字加密技術與解密方法
    * 包含：
@@ -33,7 +33,7 @@
 
 ## 資料分析成果展示
 
-<details> <summary展開</summary>
+<details>
  
 * ## 模擬「臺中地區博奕熱區變化趨勢」地圖 (可篩選)
    ### [https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html](https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html)
@@ -54,7 +54,7 @@
 
 # Chiakai's 筆記區
 
-<details> <summary展開</summary>
+<details>
  
 * ## 資安事件調查處理 (20211206~20211208)
    ### Day 1：[https://hackmd.io/@chiakai/SecurityCLass_1](https://hackmd.io/@chiakai/SecurityCLass_1)

@@ -11,10 +11,14 @@
   * ![](https://chiakai-chang.github.io/tempHTML/img/AtmDataWash.jpg)
 
 * ## [巨量關鍵比對案件好好查](https://github.com/Chiakai-Chang/BigKeywordsMatcher)
-  * 為解決同仁有一批關鍵ID，要在一批案件中比對符合的個案，往往都需耗費巨大的心力手動整理的困擾。
-  * 特別受委託開發此小程式，協助自動批次以大量關鍵 ID 去篩選、比對大量案件，節省大量人力與心力。
+  * 為解決同仁有一批關鍵ID，要在一批案件中比對符合的個案，往往都需耗費巨大的心力手動整理的困擾，特別受委託開發此小程式，協助自動批次以大量關鍵 ID 去篩選、比對大量案件，節省大量人力與心力。
   * 請參考教學: [操作教學](https://drive.google.com/file/d/1YeoV7mjYXlExavfmFpZu_emsYBqrIzWC/view?usp=sharing)
   * ![](https://chiakai-chang.github.io/tempHTML/img/BigKeywordsMatcher.jpg)
+
+* ## [臉書外洩資訊整理好好查](https://github.com/Chiakai-Chang/2019_FB_Leak_Parser)
+  * 2019年傳超過 2.67 億臉書用戶的帳號、電話號碼和姓名在網路上曝光，此程式協助以關鍵字方式，提供檢索該外洩之個資。
+  * 為防止濫用，此程式設計需於臺中市警局內網，且需登入科偵平臺方可使用，且查詢會留下log。
+  * ![](https://chiakai-chang.github.io/tempHTML/img/fbLeakDataParser.jpg)
 
 ## 小幫手程式 (Colab 即取即用)
 * ## [臉書好友整理神器](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)

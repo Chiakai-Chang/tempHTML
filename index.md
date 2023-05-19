@@ -50,6 +50,11 @@
   * 特別開發此程式，提供同仁受理詐欺前提供相關教學、受理時提供填輸參考、受理後即時審核並回饋應更補正問題，修改完成後，並自動將審核結果傳送供單位主管與業務人員知悉，為大家分憂解勞。
   * ![](https://chiakai-chang.github.io/tempHTML/img/check165case.jpg)
 
+* ## [自動開獎小幫手](https://github.com/Chiakai-Chang/CarHandDataManager)
+  * 每周二、四刑事局固定提供詐欺提領情資，提供後分局承辦人需立即整理車手資料、分析轄區提領變化情形與熱時熱點變化趨勢，更要即時繕打調閱函搶時效供同仁儘速前往調閱監錄影像，相當燒腦費時。
+  * 特別開發此程式，於接獲情資後，僅需將情資檔匯入程式，即可自動記錄分析轄區提領變化情形與熱時熱點變化趨勢，並自動產出每個處所監視器調閱函參考範本，極大化地分憂解勞。
+  * ![](https://chiakai-chang.github.io/tempHTML/img/CarHandDataManager.jpg)
+
 ## 小幫手程式 (Colab 即取即用)
 * ## [臉書好友整理神器](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
    * 請參考教學: [使用指引](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)

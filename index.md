@@ -10,6 +10,12 @@
   * 為解決金流分析時，大量金流資料要逐筆查對 ATM 提領位置傷眼又考驗耐心的煩惱，特別受委託開發此小程式協助自動批次比對 ATM 提領地點。
   * ![](https://chiakai-chang.github.io/tempHTML/img/AtmDataWash.jpg)
 
+* ## [巨量關鍵比對案件好好查](https://github.com/Chiakai-Chang/BigKeywordsMatcher)
+  * 為解決同仁有一批關鍵ID，要在一批案件中比對符合的個案，往往都需耗費巨大的心力手動整理的困擾。
+  * 特別受委託開發此小程式，協助自動批次以大量關鍵 ID 去篩選、比對大量案件，節省大量人力與心力。
+  * 請參考教學: [操作教學](https://drive.google.com/file/d/1YeoV7mjYXlExavfmFpZu_emsYBqrIzWC/view?usp=sharing)
+  * ![](https://chiakai-chang.github.io/tempHTML/img/BigKeywordsMatcher.jpg)
+
 ## 小幫手程式 (Colab 即取即用)
 * ## [臉書好友整理神器](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
    * 請參考教學: [使用指引](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)

@@ -1,5 +1,36 @@
 # Chiakai's 成果展示區
 
+## 精心研發各種小幫手程式 (Colab 即取即用)
+* ## [臉書好友整理神器](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
+   * 請參考教學: [使用指引](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)
+
+* ## [大量同格式JSON彙整小幫手](https://colab.research.google.com/drive/1w1ApO_p3zh38ocU6jW5di3LXfeQWA3t6?usp=sharing)
+   *  現在的網頁大多都基於 MVC 等架構，除了呈現的網頁以外，背後還會有 API 去存取資料(大多為 JSON 格式)來更新顯示內容。
+   *  因為前述 JSON 給的資料往往比網頁上肉眼能看到得「更豐富」，且格式也更容易整理，所以有個小幫手可以幫忙將這些 Json 接收下來，一起轉換成更容易操作的 excel 格式，豈不美哉？
+
+* ## [AWS IP 確認小幫手](https://colab.research.google.com/drive/1T7vX0L2gs9VCNzwzSpvsI84rGTFRXl3R?usp=sharing)
+   *  若大家有遇到 ip 是 amazon (亞馬遜) 的，可以使用這個小幫手來確認 IP 是 AWS 的什麼雲端服務
+      * 亦可參考 RyanLabs 提供之線上查詢工具：AWS IP Range Checker/Lookup Tool
+         * 該工具僅能查詢 IPv4 的資料
+   * 本程式係從官方：AWS IP address ranges 下載最新之 IP 資訊 (Json 檔，含 IPv4 與 IPv6) 進行比對，為最即時、最準確之資料
+
+* ## [地址轉經緯度小幫手](https://colab.research.google.com/drive/1BWleXRAN1vM82-k9lz-O78fPMqBZf581?usp=sharing)
+  * 借用內政部國土測繪中心「國土測繪圖資服務雲」之電子地圖，查詢任意地址之完整行政區(至村里鄰)及經緯度。 
+
+* ## [UserAgent 解析小幫手](https://colab.research.google.com/drive/1IP1t7yFuIYLnTttwcn_V5fy3XkJASk2d?usp=sharing)
+  * 在做 log 分析時，常常都會遇到 UserAgent 這個資料，該資料通常包含了其應用程式類型(瀏覽器)、作業系統、軟體供應商……等等，有時還會包含軟體修訂版本等資訊。
+  * 因該字串不容易閱讀，所以特別以小程式幫忙解析重點。
+
+* ## [封包 headers 文字轉 dict 小幫手](https://colab.research.google.com/drive/15auzjfvWt6HICDyKtTDEFfKpoT-TlG7s?usp=sharing)
+   * 使用 DevTools 複製找到並複製封包有關 Requests Headers 的文字內容
+   * 貼到程式後，即可整理成方便使用的 dict 格式，並自動將 cookie 分離
+
+* ## [文字加解密技術](https://colab.research.google.com/drive/1lq6E8jFDKuXveji5zJmzl7m7hT3o3503?usp=sharing)
+   * 整理曾經遇到的文字加密技術與解密方法
+   * 包含：
+      * 凱撒加密
+      * 二進制轉換 (資安社群常用)
+
 ## 精心研發各種小幫手程式 (打包 exe 提供使用)
 * ## [AI智慧程式碼識別小幫手](https://github.com/Chiakai-Chang/CodeForensicsOnScene)
   * 為解決現場勘查時，遇到屬「程式開發」相關現場，充斥複雜難懂之各種程式碼，令現場查緝人員難以快速瞭解掌握涉案情形或釐清現場人員所言是否真實之情形。
@@ -55,7 +86,7 @@
   * 特別開發此程式，於接獲情資後，僅需將情資檔匯入程式，即可自動記錄分析轄區提領變化情形與熱時熱點變化趨勢，並自動產出每個處所監視器調閱函參考範本，極大化地分憂解勞。
   * ![](https://chiakai-chang.github.io/tempHTML/img/CarHandDataManager.jpg)
 
-## 小幫手程式 (個別任務使用)
+## 精心研發各種小幫手程式 (個別任務使用)
 * ## [全網/FB社群科偵關鍵情資蒐報局](https://github.com/Chiakai-Chang/FacebookCrawler)
   * 適逢選舉、大型活動或有危安情資時，往往需調用大量人力輪番關注全網與各社群網路有關情資，造成大家身心俱疲。
   * 遂特別開發此爬蟲程式，業已實際協助於各大小選舉期間或經典賽等大型活動期間，協助自動化以關鍵字過濾全網情資，發現選舉賭盤或敏感資訊，提供同仁即時應對偵處。
@@ -65,38 +96,6 @@
   * 近年來Youtube廣告遭詐騙集團濫用猖獗，導致不少民眾因而受騙，但要蒐集詐騙廣告檢舉，卻無一便捷方式可供快速搜尋，僅能憑運氣及等待演算法推薦蒐集到1則，就需再度等待運氣及等待演算法推薦才能繼續蒐集，毫無效率可言。
   * 遂特別開發此爬蟲程式，協助以最可能出現詐騙廣告之關鍵字搜尋，並以最小輪播廣告時間，自動化快速蒐集相關廣告資訊，並按檢舉所需資訊整理成表，至今已成功蒐獲數千則廣告。
   * ![](https://chiakai-chang.github.io/tempHTML/img/YT_AD.jpg)
-
-## 小幫手程式 (Colab 即取即用)
-* ## [臉書好友整理神器](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
-   * 請參考教學: [使用指引](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)
-
-* ## [大量同格式JSON彙整小幫手](https://colab.research.google.com/drive/1w1ApO_p3zh38ocU6jW5di3LXfeQWA3t6?usp=sharing)
-   *  現在的網頁大多都基於 MVC 等架構，除了呈現的網頁以外，背後還會有 API 去存取資料(大多為 JSON 格式)來更新顯示內容。
-   *  因為前述 JSON 給的資料往往比網頁上肉眼能看到得「更豐富」，且格式也更容易整理，所以有個小幫手可以幫忙將這些 Json 接收下來，一起轉換成更容易操作的 excel 格式，豈不美哉？
-
-* ## [AWS IP 確認小幫手](https://colab.research.google.com/drive/1T7vX0L2gs9VCNzwzSpvsI84rGTFRXl3R?usp=sharing)
-   *  若大家有遇到 ip 是 amazon (亞馬遜) 的，可以使用這個小幫手來確認 IP 是 AWS 的什麼雲端服務
-      * 亦可參考 RyanLabs 提供之線上查詢工具：AWS IP Range Checker/Lookup Tool
-         * 該工具僅能查詢 IPv4 的資料
-   * 本程式係從官方：AWS IP address ranges 下載最新之 IP 資訊 (Json 檔，含 IPv4 與 IPv6) 進行比對，為最即時、最準確之資料
-
-* ## [地址轉經緯度小幫手](https://colab.research.google.com/drive/1BWleXRAN1vM82-k9lz-O78fPMqBZf581?usp=sharing)
-  * 借用內政部國土測繪中心「國土測繪圖資服務雲」之電子地圖，查詢任意地址之完整行政區(至村里鄰)及經緯度。 
-
-* ## [UserAgent 解析小幫手](https://colab.research.google.com/drive/1IP1t7yFuIYLnTttwcn_V5fy3XkJASk2d?usp=sharing)
-  * 在做 log 分析時，常常都會遇到 UserAgent 這個資料，該資料通常包含了其應用程式類型(瀏覽器)、作業系統、軟體供應商……等等，有時還會包含軟體修訂版本等資訊。
-  * 因該字串不容易閱讀，所以特別以小程式幫忙解析重點。
-
-* ## [封包 headers 文字轉 dict 小幫手](https://colab.research.google.com/drive/15auzjfvWt6HICDyKtTDEFfKpoT-TlG7s?usp=sharing)
-   * 使用 DevTools 複製找到並複製封包有關 Requests Headers 的文字內容
-   * 貼到程式後，即可整理成方便使用的 dict 格式，並自動將 cookie 分離
-
-* ## [文字加解密技術](https://colab.research.google.com/drive/1lq6E8jFDKuXveji5zJmzl7m7hT3o3503?usp=sharing)
-   * 整理曾經遇到的文字加密技術與解密方法
-   * 包含：
-      * 凱撒加密
-      * 二進制轉換 (資安社群常用)
-
 
 ## 資料分析成果展示
 

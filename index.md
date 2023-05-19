@@ -3,6 +3,7 @@
 ## 精心研發各種小幫手程式 (Colab 即取即用)
 * ## [臉書好友整理神器](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
    * 請參考教學: [使用指引](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)
+   * 整理大量以往難以人工彙整之臉書留言或按攢者資訊，並用以從事「交集分析」抓出關鍵犯嫌。
 
 * ## [大量同格式JSON彙整小幫手](https://colab.research.google.com/drive/1w1ApO_p3zh38ocU6jW5di3LXfeQWA3t6?usp=sharing)
    *  現在的網頁大多都基於 MVC 等架構，除了呈現的網頁以外，背後還會有 API 去存取資料(大多為 JSON 格式)來更新顯示內容。

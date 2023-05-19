@@ -34,6 +34,12 @@
   * 為防止濫用，此程式設計需於臺中市警局內網，且需登入科偵平臺方可使用，且查詢會留下log。
   * ![](https://chiakai-chang.github.io/tempHTML/img/fbLeakDataParser.jpg)
 
+* ## [臺中地區監視器過濾下載器](https://github.com/Chiakai-Chang/AutoCamDownloader)
+  * 為解決調閱路口監視器時，要瀏覽或下載監視器必須要安裝很多網頁元件；以網頁觀看歷史影像都需緩存，不便加速回退；看完一段再載下一段，許多時間消耗在空等待；大批調閱時，仍需至GIS地圖查找監視器。
+  且重大案件或歹徒不知行向時，要調閱周遭全部監視器就需消耗警力專責調閱等問題。
+  * 特別開發可選定案發地點，選擇調閱範圍、時間區段，即可大規模自動批次排程下載監視器影像之程式，為同仁分憂解勞。
+  * ![](https://chiakai-chang.github.io/tempHTML/img/AutoCamDownloader.jpg)
+
 ## 小幫手程式 (Colab 即取即用)
 * ## [臉書好友整理神器](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
    * 請參考教學: [使用指引](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)

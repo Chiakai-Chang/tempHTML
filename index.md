@@ -10,6 +10,11 @@
   * 為解決 log 分析時，裡面出現多達千萬、甚至上兆行的資料與IP，由此程式自動化從任意文本資料中，逐行抽取 IP 進行整理，再自動進行 IP Whois 查詢，若係臺灣 IP 就再進一步自動前往 TWNIC 進行 IP Whois 查詢，最後將結果整理成 excel 表格，大量節約同仁查詢耗時與精力。
   * ![](https://chiakai-chang.github.io/tempHTML/img/IPwhoisTool.jpg)
 
+* ## [PTT_Crawler](https://github.com/Chiakai-Chang/PTT_Crawler_ByUser)
+  * PTT 作為臺灣網路消息最大的集散地之一，不少同仁遇到妨害名譽、恐嚇、假消息等案件發生在該站，雖網路上有不少 OSINT 工具可協助查詢資料，但均無保存跡證功能。
+  * 遂特別研發此程式，除一鍵可保存所查詢 ID 之基本資要、相關文章、留言、暱稱等資料，並擷取該 ID 所使用 IP 紀錄以外，亦整合網上 OSINT 資源，提供該 ID 最後10筆上站 IP 紀錄，更會自動完成 IP whois 查詢工作，大量節約同仁查詢耗時與精力。
+  * ![](https://chiakai-chang.github.io/tempHTML/img/PTT_Crawler_ByUser.jpg)
+
 * ## [ATM交易資料自動查詢彙整小幫手](https://github.com/Chiakai-Chang/varityTask/tree/main/atmDataWash)
   * 為解決金流分析時，大量金流資料要逐筆查對 ATM 提領位置傷眼又考驗耐心的煩惱，特別受委託開發此小程式協助自動批次比對 ATM 提領地點。
   * ![](https://chiakai-chang.github.io/tempHTML/img/AtmDataWash.jpg)

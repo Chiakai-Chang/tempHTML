@@ -6,6 +6,10 @@
   * 特別開發此工具，藉由 AI 提供快速分析程式碼並產出報告的功能，協助現場快速掌握可疑程式碼作用、可能違法情形與關鍵資訊擷取。
   * ![](https://chiakai-chang.github.io/tempHTML/img/CFOS.jpg)
 
+* ## [IPwhois好好查](https://github.com/Chiakai-Chang/CheckIP)
+  * 為解決 log 分析時，裡面出現多達千萬、甚至上兆行的資料與IP，由此程式自動化從任意文本資料中，逐行抽取 IP 進行整理，再自動進行 IP Whois 查詢，若係臺灣 IP 就再進一步自動前往 TWNIC 進行 IP Whois 查詢，最後將結果整理成 excel 表格，大量節約同仁查詢耗時與精力。
+  * ![](https://chiakai-chang.github.io/tempHTML/img/IPwhoisTool.jpg)
+
 * ## [ATM交易資料自動查詢彙整小幫手](https://github.com/Chiakai-Chang/varityTask/tree/main/atmDataWash)
   * 為解決金流分析時，大量金流資料要逐筆查對 ATM 提領位置傷眼又考驗耐心的煩惱，特別受委託開發此小程式協助自動批次比對 ATM 提領地點。
   * ![](https://chiakai-chang.github.io/tempHTML/img/AtmDataWash.jpg)

@@ -55,6 +55,17 @@
   * 特別開發此程式，於接獲情資後，僅需將情資檔匯入程式，即可自動記錄分析轄區提領變化情形與熱時熱點變化趨勢，並自動產出每個處所監視器調閱函參考範本，極大化地分憂解勞。
   * ![](https://chiakai-chang.github.io/tempHTML/img/CarHandDataManager.jpg)
 
+## 小幫手程式 (個別任務使用)
+* ## [全網/FB社群科偵關鍵情資蒐報局](https://github.com/Chiakai-Chang/FacebookCrawler)
+  * 適逢選舉、大型活動或有危安情資時，往往需調用大量人力輪番關注全網與各社群網路有關情資，造成大家身心俱疲。
+  * 遂特別開發此爬蟲程式，業已實際協助於各大小選舉期間或經典賽等大型活動期間，協助自動化以關鍵字過濾全網情資，發現選舉賭盤或敏感資訊，提供同仁即時應對偵處。
+  * ![](https://chiakai-chang.github.io/tempHTML/img/Crawler.jpg)
+
+* ## [Youtube廣告自動爬搜](https://github.com/Chiakai-Chang/AutoParseYoutubeAD)
+  * 近年來Youtube廣告遭詐騙集團濫用猖獗，導致不少民眾因而受騙，但要蒐集詐騙廣告檢舉，卻無一便捷方式可供快速搜尋，僅能憑運氣及等待演算法推薦蒐集到1則，就需再度等待運氣及等待演算法推薦才能繼續蒐集，毫無效率可言。
+  * 遂特別開發此爬蟲程式，協助以最可能出現詐騙廣告之關鍵字搜尋，並以最小輪播廣告時間，自動化快速蒐集相關廣告資訊，並按檢舉所需資訊整理成表，至今已成功蒐獲數千則廣告。
+  * ![](https://chiakai-chang.github.io/tempHTML/img/YT_AD.jpg)
+
 ## 小幫手程式 (Colab 即取即用)
 * ## [臉書好友整理神器](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
    * 請參考教學: [使用指引](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)

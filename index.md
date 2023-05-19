@@ -1,10 +1,12 @@
 # Chiakai's 成果展示區
 
-## 小幫手程式 (Colab 即取即用)
-* ## [AI智慧程式碼識別小幫手](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
+## 精心研發各種小幫手程式 (打包 exe 提供使用)
+* ## [AI智慧程式碼識別小幫手](https://github.com/Chiakai-Chang/CodeForensicsOnScene)
    * 為解決現場勘查時，遇到屬「程式開發」相關現場，充斥複雜難懂之各種程式碼，令現場查緝人員難以快速瞭解掌握涉案情形或釐清現場人員所言是否真實之情形。
    * 特別開發此工具，藉由 AI 提供快速分析程式碼並產出報告的功能，協助現場快速掌握可疑程式碼作用、可能違法情形與關鍵資訊擷取。
    * ![](https://chiakai-chang.github.io/tempHTML/img/CFOS.jpg)
+
+
 
 ## 小幫手程式 (Colab 即取即用)
 * ## [臉書好友整理神器](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)

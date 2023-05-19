@@ -40,6 +40,11 @@
   * 特別開發可選定案發地點，選擇調閱範圍、時間區段，即可大規模自動批次排程下載監視器影像之程式，為同仁分憂解勞。
   * ![](https://chiakai-chang.github.io/tempHTML/img/AutoCamDownloader.jpg)
 
+* ## [審核165案件小幫手](https://github.com/Chiakai-Chang/check165case)
+  * 受理詐欺案要注意的「眉角」細節極多！就算是承辦人也不一定每次全部都記得。每日165都會稽核受理詐欺案件填輸是否出錯。常常同仁深夜受理後，分局、警察局、165稽核發現需更補正時，不得已往往要將深夜勤同仁自睡窩中吵醒，甚至還要聯繫被害人盡速再度回到受理單位來補正資料，實在擾民傷神。
+  * 特別開發此程式，提供同仁受理詐欺前提供相關教學、受理時提供填輸參考、受理後即時審核並回饋應更補正問題，修改完成後，並自動將審核結果傳送供單位主管與業務人員知悉，為大家分憂解勞。
+  * ![](https://chiakai-chang.github.io/tempHTML/img/check165case.jpg)
+
 ## 小幫手程式 (Colab 即取即用)
 * ## [臉書好友整理神器](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
    * 請參考教學: [使用指引](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)

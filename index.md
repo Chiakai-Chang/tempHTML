@@ -100,8 +100,8 @@
 
 # Chiakai's 資料分析成果展示
 * ## 模擬「臺中地區博奕熱區變化趨勢」地圖 (可篩選)
-  * ### [2016~2020 點位叢集加熱度變化趨勢(可按年度篩選。可播放每年變化情形，可加速)](https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html)
-  * ### [20150101~20210209 熱度變化趨勢(可播放按每日變化情形，可加速)](https://chiakai-chang.github.io/tempHTML/GBMapTaichung(2020~2021).html)
+  * ### [2016~2020 點位叢集加熱度變化趨勢](https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html) (可按年度篩選。可播放每年變化情形，可加速)
+  * ### [2015/01/01~2021/02/09 熱度變化趨勢](https://chiakai-chang.github.io/tempHTML/GBMapTaichung(2020~2021).html) (可播放按每日變化情形，可加速)
 * ## 模擬「疫調個案活動軌跡」地圖 (可篩叢集)
   * ### [https://chiakai-chang.github.io/tempHTML/demo1.html](https://chiakai-chang.github.io/tempHTML/demo1.html)
 * ## 額外分享：

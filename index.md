@@ -98,40 +98,26 @@
   * 遂特別開發此爬蟲程式，協助以最可能出現詐騙廣告之關鍵字搜尋，並以最小輪播廣告時間，自動化快速蒐集相關廣告資訊，並按檢舉所需資訊整理成表，至今已成功蒐獲數千則廣告。
   * ![](https://chiakai-chang.github.io/tempHTML/img/YT_AD.jpg)
 
-## 資料分析成果展示
-
-<details> 
-  <p> </p>
-   
+# Chiakai's 資料分析成果展示
 * ## 模擬「臺中地區博奕熱區變化趨勢」地圖 (可篩選)
    ### [https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html](https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html)
-
 * ## 模擬「臺中地區博奕熱區變化趨勢」地圖 (純看變化)
    ### [https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html](https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html)
-
 * ## 模擬「疫調個案活動軌跡」地圖 (可篩叢集)
    ### [https://chiakai-chang.github.io/tempHTML/demo1.html](https://chiakai-chang.github.io/tempHTML/demo1.html)
-
-* ## 「110報案關鍵字」詞雲 (By 戰隊長:徐思勤)
-   ### [https://chiakai-chang.github.io/tempHTML/key110.html](https://chiakai-chang.github.io/tempHTML/key110.html)
-
-* ## 「e化報案」關鍵字詞雲 (By 戰隊長:徐思勤)
-   ### [https://chiakai-chang.github.io/tempHTML/keyE.html](https://chiakai-chang.github.io/tempHTML/keyE.html)
-</details> 
+* 額外分享：
+  * ## 「110報案關鍵字」詞雲 (By 戰隊長:徐思勤)
+    ### [https://chiakai-chang.github.io/tempHTML/key110.html](https://chiakai-chang.github.io/tempHTML/key110.html)
+  * ## 「e化報案」關鍵字詞雲 (By 戰隊長:徐思勤)
+    ### [https://chiakai-chang.github.io/tempHTML/keyE.html](https://chiakai-chang.github.io/tempHTML/keyE.html)
 
 # Chiakai's 筆記區
-
-<details> 
-  <p> </p> 
-   
 * ## 資安事件調查處理 (20211206~20211208)
    ### Day 1：[https://hackmd.io/@chiakai/SecurityCLass_1](https://hackmd.io/@chiakai/SecurityCLass_1)
    ### Day 2：[https://hackmd.io/@chiakai/SecurityCLass_2](https://hackmd.io/@chiakai/SecurityCLass_2)
    ### Day 3：[https://hackmd.io/@chiakai/SecurityCLass_3](https://hackmd.io/@chiakai/SecurityCLass_3)
-
-* ## [讓 Colab 執行時永不斷線的秘密](https://colab.research.google.com/drive/1AypPlaUj0Ysz0H8YG6Op1XZ8nhfOi-Qn?usp=sharing) 
- 
-* ## [解決分母、分子超大導致分數無法進行四維運算問題](https://colab.research.google.com/drive/1z1pmV2sEoMo-Hhlc9JTnLApYuCLS4veC?usp=sharing)
-</details> 
+* ## 程式筆記 (點標題即可開啟)：
+  * ### [讓 Colab 執行時永不斷線的秘密](https://colab.research.google.com/drive/1AypPlaUj0Ysz0H8YG6Op1XZ8nhfOi-Qn?usp=sharing) 
+  * ### [解決分母、分子超大導致分數無法進行四維運算問題](https://colab.research.google.com/drive/1z1pmV2sEoMo-Hhlc9JTnLApYuCLS4veC?usp=sharing)
 
 ### site is published at https://chiakai-chang.github.io/tempHTML/

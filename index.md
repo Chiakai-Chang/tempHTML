@@ -1,6 +1,6 @@
 # Chiakai's 成果展示區
 
-## 精心研發各種小幫手程式 (Colab 即取即用)
+## 精心研發各種小幫手程式 (Colab 即取即用，點擊程式名稱即可開啟)
 * ## [臉書好友整理神器](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
    * 請參考教學: [使用指引](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)
    * 整理大量以往難以人工彙整之臉書留言或按攢者資訊，並用以從事「交集分析」抓出關鍵犯嫌。
@@ -101,7 +101,7 @@
 ## 資料分析成果展示
 
 <details> 
-<br>
+  <p></p>
 * ## 模擬「臺中地區博奕熱區變化趨勢」地圖 (可篩選)
    ### [https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html](https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html)
 
@@ -121,7 +121,7 @@
 # Chiakai's 筆記區
 
 <details> 
-<br>
+  <p></p>
 * ## 資安事件調查處理 (20211206~20211208)
    ### Day 1：[https://hackmd.io/@chiakai/SecurityCLass_1](https://hackmd.io/@chiakai/SecurityCLass_1)
    ### Day 2：[https://hackmd.io/@chiakai/SecurityCLass_2](https://hackmd.io/@chiakai/SecurityCLass_2)

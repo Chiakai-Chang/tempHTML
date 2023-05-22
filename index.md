@@ -101,9 +101,12 @@
 # Chiakai's 資料分析成果展示
 * ## 模擬「臺中地區博奕熱區變化趨勢」地圖
   * ### [2016~2020 點位叢集加熱度變化趨勢](https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html) (可按年度篩選、可播放每年變化情形、可加速)
+    * ![](https://chiakai-chang.github.io/tempHTML/img/GBplaceVarifyMap(201601~202012).jpg)
   * ### [2015/01/01~2021/02/09 熱度變化趨勢](https://chiakai-chang.github.io/tempHTML/GBMapTaichung(2020~2021).html) (可播放每日變化情形、可加速)
+    * ![](https://chiakai-chang.github.io/tempHTML/img/GBMapTaichung(2020~2021).jpg)
 * ## 模擬「疫調個案活動軌跡」地圖 (可篩叢集)
   * ### [模擬個案活動軌跡移動情形](https://chiakai-chang.github.io/tempHTML/demo1.html) (可篩裝置、可播放按每日變化情形、可加速)
+    * ![](https://chiakai-chang.github.io/tempHTML/img/demo1.jpg)
 * ## 額外分享：
   * ### [「110報案關鍵字」詞雲 (By 戰隊長:徐思勤)](https://chiakai-chang.github.io/tempHTML/key110.html)
   * ### [「e化報案」關鍵字詞雲 (By 戰隊長:徐思勤)](https://chiakai-chang.github.io/tempHTML/keyE.html)

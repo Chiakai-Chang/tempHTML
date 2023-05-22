@@ -7,10 +7,10 @@
 
 * ## [大量同格式JSON彙整小幫手](https://colab.research.google.com/drive/1w1ApO_p3zh38ocU6jW5di3LXfeQWA3t6?usp=sharing)
    *  現在的網頁大多都基於 MVC 等架構，除了呈現的網頁以外，背後還會有 API 去存取資料(大多為 JSON 格式)來更新顯示內容。
-   *  因為前述 JSON 給的資料往往比網頁上肉眼能看到得「更豐富」，且格式也更容易整理，所以有個小幫手可以幫忙將這些 Json 接收下來，一起轉換成更容易操作的 excel 格式，豈不美哉？
+   *  因為前述 JSON 資料往往給的比網頁上肉眼能看到得「更豐富」，且格式也更容易整理，故撰寫程式協助接收彙整 JSON 資料，統整後轉換成更容易操作的 excel，快速協助分析、呈現大量資訊。
 
 * ## [AWS IP 確認小幫手](https://colab.research.google.com/drive/1T7vX0L2gs9VCNzwzSpvsI84rGTFRXl3R?usp=sharing)
-   *  若大家有遇到 ip 是 amazon (亞馬遜) 的，可以使用這個小幫手來確認 IP 是 AWS 的什麼雲端服務
+   *  若大家有遇到 ip 是 amazon (亞馬遜) 的，可以使用這個小幫手來確認 IP 是 AWS 的什麼雲端服務。
       * 亦可參考 RyanLabs 提供之線上查詢工具：AWS IP Range Checker/Lookup Tool
          * 該工具僅能查詢 IPv4 的資料
    * 本程式係從官方：AWS IP address ranges 下載最新之 IP 資訊 (Json 檔，含 IPv4 與 IPv6) 進行比對，為最即時、最準確之資料
@@ -18,16 +18,16 @@
 * ## [地址轉經緯度小幫手](https://colab.research.google.com/drive/1BWleXRAN1vM82-k9lz-O78fPMqBZf581?usp=sharing)
   * 借用內政部國土測繪中心「國土測繪圖資服務雲」之電子地圖，查詢任意地址之完整行政區(至村里鄰)及經緯度。 
 
-* ## [UserAgent 解析小幫手](https://colab.research.google.com/drive/1IP1t7yFuIYLnTttwcn_V5fy3XkJASk2d?usp=sharing)
-  * 在做 log 分析時，常常都會遇到 UserAgent 這個資料，該資料通常包含了其應用程式類型(瀏覽器)、作業系統、軟體供應商……等等，有時還會包含軟體修訂版本等資訊。
+* ## [User-Agent 解析小幫手](https://colab.research.google.com/drive/1IP1t7yFuIYLnTttwcn_V5fy3XkJASk2d?usp=sharing)
+  * 在做 log 分析時，常常都會遇到 User-Agent 這個資料，該資料通常包含了其應用程式類型(瀏覽器)、作業系統、軟體供應商……等等，有時還會包含軟體修訂版本等資訊。
   * 因該字串不容易閱讀，所以特別以小程式幫忙解析重點。
 
 * ## [封包 headers 文字轉 dict 小幫手](https://colab.research.google.com/drive/15auzjfvWt6HICDyKtTDEFfKpoT-TlG7s?usp=sharing)
-   * 使用 DevTools 複製找到並複製封包有關 Requests Headers 的文字內容
-   * 貼到程式後，即可整理成方便使用的 dict 格式，並自動將 cookie 分離
+   * 使用 DevTools 複製找到並複製封包有關 Requests Headers 的文字內容。
+   * 貼到程式後，即可整理成方便使用的 dict 格式，並自動將 cookie 分離。
 
 * ## [文字加解密技術](https://colab.research.google.com/drive/1lq6E8jFDKuXveji5zJmzl7m7hT3o3503?usp=sharing)
-   * 整理曾經遇到的文字加密技術與解密方法
+   * 提供文字有關「凱薩加密」、「二進制轉換」等2種之加解密，尤其是「二進制轉換」時常受資安相關社群隱藏發言所愛用。
    * 包含：
       * 凱撒加密
       * 二進制轉換 (資安社群常用)
@@ -48,7 +48,7 @@
   * ![](https://chiakai-chang.github.io/tempHTML/img/PTT_Crawler_ByUser.jpg)
 
 * ## [經緯度/地址好好查](https://github.com/Chiakai-Chang/location_to_html)
-  * 視覺化的資料是最容易分析的資料，以往同仁有大量的監視器位置、車行紀錄、IP 通聯、戶籍/現住地址等資整合後，往往因資料太過龐大，導致需耗費大量時間分析，才能找出關鍵交集位置。由其疫情期間，更是有大量需分析疫調個案活動軌跡需求。
+  * 視覺化的資料是最容易分析的資料，以往同仁有大量的監視器位置、車行紀錄、IP 通聯、戶籍/現住地址等資整合後，往往因資料太過龐大，導致需耗費大量時間分析，才能找出關鍵交集位置。尤其疫情期間更是有大量需分析疫調個案活動軌跡需求。
   * 遂特別研發此程式，除幫同仁將相關經緯度標註於地圖上以外，還供批次地址轉經緯度功能，最後還能產出可攜式的地圖 HTML 檔，方便情資分享與分析。
   * ![](https://chiakai-chang.github.io/tempHTML/img/location_to_html.jpg)
 
@@ -101,7 +101,7 @@
 ## 資料分析成果展示
 
 <details> 
-
+<br>
 * ## 模擬「臺中地區博奕熱區變化趨勢」地圖 (可篩選)
    ### [https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html](https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html)
 
@@ -121,7 +121,7 @@
 # Chiakai's 筆記區
 
 <details> 
-
+<br>
 * ## 資安事件調查處理 (20211206~20211208)
    ### Day 1：[https://hackmd.io/@chiakai/SecurityCLass_1](https://hackmd.io/@chiakai/SecurityCLass_1)
    ### Day 2：[https://hackmd.io/@chiakai/SecurityCLass_2](https://hackmd.io/@chiakai/SecurityCLass_2)

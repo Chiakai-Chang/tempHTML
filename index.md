@@ -98,6 +98,29 @@
   * 遂特別開發此爬蟲程式，協助以最可能出現詐騙廣告之關鍵字搜尋，並以最小輪播廣告時間，自動化快速蒐集相關廣告資訊，並按檢舉所需資訊整理成表，至今已成功蒐獲數千則廣告。
   * [![](https://chiakai-chang.github.io/tempHTML/img/YT_AD.jpg)](https://github.com/Chiakai-Chang/AutoParseYoutubeAD)
 
+# Chiakai's 混合實境小作品
+* ## 第一人稱視角模擬訓練-執行博弈/詐欺犯罪搜索現場調查
+  * [下載連結](https://drive.google.com/file/d/1JnpmDLWOaB8Fd9oq5cz4DAi-PKE2bhEJ/view?usp=sharing)
+  * 特色：
+    * 全國首創「第一人稱視角-搜索詐欺犯罪現場模擬訓練」，融入遊戲元素並透過第一人稱視角的操作方式，有別於傳統的訓練型態，讓同仁身歷其境且邊玩邊學，就算是新進人員，透過這個模擬訓練，就可以學習調查犯罪現場、尋找線索、詢問外語犯嫌、臨場反應、分析證據等項目，最重要的是，未來不只博弈/詐欺案件適用，更可導入不同案件犯罪現場的相關內容，以及所擔任的不同角色任務，綜合訓練偵查人員的執行技巧和應變能力，強化整體偵查體質。
+    * 另外遊戲中可配合運用基於 AI 人工智慧技術所開發設計「AI程式碼識別小幫手」，率先全國首創讓程式告訴你程式在做什麼、可能涉及什麼不法行為等內容，提供刑事人員快速辨別可疑程式，協助分析隱藏在程式內的不法行為、加密貨幣錢包位址及網站網址等資訊，強化犯罪現場數位取證能力。
+  * 目前可體驗項目：
+    * 基於真實經驗而設計的現場環境與人物互動
+      * ![](https://chiakai-chang.github.io/tempHTML/img/always_smoke.gif)
+      * ![](https://chiakai-chang.github.io/tempHTML/img/always_firstday.gif)  
+    * 現場小線索之尋找與拼湊
+      * ![](https://chiakai-chang.github.io/tempHTML/img/little_clue.gif)  
+      * ![](https://chiakai-chang.github.io/tempHTML/img/burnt_paper.gif)  
+    * 可真實英語對話之 AI 人物
+      * 串接 GPT 模型，自然真實的透過語音(英語)來對話
+      * 該人物掌握關鍵資訊，需由玩家模擬警方以偵訊技巧來獲取
+      * 
+    * 模擬實際取得程式碼，該如何從中獲取獲取跡證，並即時藉以進一步突破
+      * 精心設計過的真實程式碼
+      * 超脫遊戲以外的真實互動  
+      * [![](https://chiakai-chang.github.io/tempHTML/img/CFOS.jpg)](https://github.com/Chiakai-Chang/CodeForensicsOnScene)
+  * 截圖：
+      * ![](https://chiakai-chang.github.io/tempHTML/img/always_firstday.gif)
 # Chiakai's 資料分析成果展示
 * ## 模擬「臺中地區博奕熱區變化趨勢」地圖
   * ### [2016~2020 點位叢集加熱度變化趨勢](https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html) (可按年度篩選、可播放每年變化情形、可加速)

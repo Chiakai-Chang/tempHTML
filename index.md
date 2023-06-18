@@ -6,8 +6,19 @@
    * 整理大量以往難以人工彙整之臉書留言或按攢者資訊，並用以從事「交集分析」抓出關鍵犯嫌。
 
 * ## [大量同格式JSON彙整小幫手](https://colab.research.google.com/drive/1w1ApO_p3zh38ocU6jW5di3LXfeQWA3t6?usp=sharing)
-   *  現在的網頁大多都基於 MVC 等架構，除了呈現的網頁以外，背後還會有 API 去存取資料(大多為 JSON 格式)來更新顯示內容。
-   *  因為前述 JSON 資料往往給的比網頁上肉眼能看到得「更豐富」，且格式也更容易整理，故撰寫程式協助接收彙整 JSON 資料，統整後轉換成更容易操作的 excel，快速協助分析、呈現大量資訊。
+  * 現在的網頁大多都基於 MVC 等架構，除了呈現的網頁以外，背後還會用 ajax 等方式用去存取 API 來獲得要更新顯示的資料(大多為 JSON 格式)。
+  * 因為前述 JSON 給的資料往往比網頁上肉眼能看到得「更豐富」，且格式也更容易整理，所以有個小幫手可以幫忙將這些 Json 接收下來，一起轉換成更容易操作的 excel 格式，豈不美哉？
+  * 本小幫手目前有兩種使用方法，適應不同情境：
+    * 用法1: 整理已下載之大量 JSON 檔
+    * 用法2: 每次複製貼上1筆，即時換整 JSON 資料再匯出
+
+* ## [視覺化情資網路關聯小幫手](https://colab.research.google.com/drive/1hVI20D5MchN6OuSI8OSC6MVYTDSJclg6?usp=sharing)
+  * 現在已有的視覺化分析軟體包括：i2 analyst's notebook、KeyLines 等等，真的非常好用。
+  * 但是有以下困擾:
+    1. i2 價格實在...門檻太高了。
+    2. KeyLines 則需要在公務系統內使用，要比較注意資安稽核等等疑慮。
+  * 加上有時候只是單純想要「顯示」情資之間的關聯，用來幫助判斷、分析資料。
+  * 所以撰寫了個小程式，讓大家可以隨時隨地「免費的」視覺化自己資料之間的關聯。
 
 * ## [AWS IP 確認小幫手](https://colab.research.google.com/drive/1T7vX0L2gs9VCNzwzSpvsI84rGTFRXl3R?usp=sharing)
    *  若大家有遇到 ip 是 amazon (亞馬遜) 的，可以使用這個小幫手來確認 IP 是 AWS 的什麼雲端服務。

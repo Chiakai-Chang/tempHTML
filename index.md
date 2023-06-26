@@ -37,6 +37,13 @@
    * 使用 DevTools 複製找到並複製封包有關 Requests Headers 的文字內容。
    * 貼到程式後，即可整理成方便使用的 dict 格式，並自動將 cookie 分離。
 
+* ## [時間戳轉換小幫手]([https://colab.research.google.com/drive/15auzjfvWt6HICDyKtTDEFfKpoT-TlG7s?usp=sharing](https://colab.research.google.com/drive/1uzcBbl5EHOn8J5S_UHWQ2_rpfs_Gjttp?usp=sharing))
+  * 在做資料清洗、資料探勘時，偶爾會發現有以數字表示的時間(即: 時間戳)。
+  * 因為數字的時間戳雖然很方便比較「日期、時間差異」、方便做「時區加減計算」，但是不容易直觀的了解究竟是什麼時間，所以為了方便就寫了個小小小幫手。
+  * 本小幫手目前有兩種使用方法，適應不同情境：
+    * 用法1: 「時間戳」轉換成「西元日期」
+    * 用法2: 「任意日期格式」轉換成「時間戳」
+
 * ## [文字加解密技術](https://colab.research.google.com/drive/1lq6E8jFDKuXveji5zJmzl7m7hT3o3503?usp=sharing)
    * 提供文字有關「凱薩加密」、「二進制轉換」等2種之加解密，尤其是「二進制轉換」時常受資安相關社群隱藏發言所愛用。
    * 包含：

@@ -56,6 +56,28 @@
   * 特別開發此工具，藉由 AI 提供快速分析程式碼並產出報告的功能，協助現場快速掌握可疑程式碼作用、可能違法情形與關鍵資訊擷取。
   * [![](https://chiakai-chang.github.io/tempHTML/img/CFOS.jpg)](https://github.com/Chiakai-Chang/CodeForensicsOnScene)
 
+* ## 全新改版「[AI程式碼分析小幫手](https://poe.com/CodeInvestigate)」誕生!!
+  * 特色:
+    * 1、採用 2023/07/13 熱騰騰全新推出的強化AI 模型 Claude 2，可支援100k-token，理論上可以分析長達10萬字的程式碼。
+    * 2、有 Google 帳號就能免費使用。
+    * 3、介面使用 Poe 對話聊天機器人，基於 WEB，在 PC、安卓、iOS都能使用。
+    * 4、可以直接將程式文檔上傳(如 .html、.py、.bat、.sh、.ps1等)，不用複製貼上。
+    * 5、經過大量嘗試才設計出能穩定產出專業分析結果的 promt，包括能: 
+      * (1) 找出程式中聯絡資訊
+      * (2) 找出程式中登入資訊(帳號、密碼)
+      * (3) 找出程式中網址、IP資訊
+      * (4) Credential等數位憑證資訊
+      * (5) 分析程式是否加密，並嘗試解密
+      * (6) 分析程式碼主動、被動執行情形
+      * (7) 分析程式作者撰寫程式風格特徵:
+      * (8) 綜合判斷
+      * (9) 給出建議後續偵查方向
+  * 唯一不足:
+    * 每日只能分析**30**筆。
+  * 趕快來試用看看吧!!
+    * https://poe.com/CodeInvestigate
+  * ![](https://chiakai-chang.github.io/tempHTML/img/CodeInvestigate.png)
+
 * ## [IPwhois好好查](https://github.com/Chiakai-Chang/CheckIP)
   * 為解決 log 分析時，裡面出現多達千萬、甚至上兆行的資料與IP，由此程式自動化從任意文本資料中，逐行抽取 IP 進行整理，再自動進行 IP Whois 查詢，若係臺灣 IP 就再進一步自動前往 TWNIC 進行 IP Whois 查詢，最後將結果整理成 excel 表格，大量節約同仁查詢耗時與精力。
   * [![](https://chiakai-chang.github.io/tempHTML/img/IPwhoisTool.jpg)](https://github.com/Chiakai-Chang/CheckIP)
@@ -115,6 +137,26 @@
   * 近年來Youtube廣告遭詐騙集團濫用猖獗，導致不少民眾因而受騙，但要蒐集詐騙廣告檢舉，卻無一便捷方式可供快速搜尋，僅能憑運氣及等待演算法推薦蒐集到1則，就需再度等待運氣及等待演算法推薦才能繼續蒐集，毫無效率可言。
   * 遂特別開發此爬蟲程式，協助以最可能出現詐騙廣告之關鍵字搜尋，並以最小輪播廣告時間，自動化快速蒐集相關廣告資訊，並按檢舉所需資訊整理成表，至今已成功蒐獲數千則廣告。
   * [![](https://chiakai-chang.github.io/tempHTML/img/YT_AD.jpg)](https://github.com/Chiakai-Chang/AutoParseYoutubeAD)
+
+# Chiakai's 教學遊戲小作品
+  * ## 首創 - [AI 模擬網路偵察小遊戲](https://poe.com/WebCopGame) !
+    * 透過有趣的偵查遊戲，輕鬆學習網路勘查技巧吧。
+    * 特色:
+      * 使用 Claude Instant 語言模型。
+        * 在對話相關、技術理解與生成程式碼方面更勝 ChatGPT
+        * 提供了更多對用戶友好的對話技巧，更容易引導到特定的對話方向
+      * 只需登入 Google 帳號，免費無使用上限。
+      * 基於 Web，不論 PC、Android、iOS 都可以玩
+    * 設計宗旨:
+      * 讓您透過一個漸進式的模擬案件,充分利用網路調查的方式,了解模擬案件的線索和情節。
+      * 在遊戲過程中,我會給予不同層次的建議。從簡單的推薦/描述網頁元素,逐漸引導您使用devtools進行更詳細的網頁勘查與JSON分析。
+      * 讓您體驗真實案件中,需要結合網路與現實調查的調查過程。並嘗試模擬出許多偵辦現實案件時可能遇到的陷阱與困難。
+      * 最重要的,希望您透過有趣的遊戲,輕鬆學習許多實用的網路偵查技巧。讓這些「模擬練習」能真正幫助您在工作中。
+      * 最後,在此重申,本「遊戲」的目的只是提供相關網路偵查知識與討論,並非教唆任何非法或不當行為。
+    * 趕快來試玩看看吧!
+      * https://poe.com/WebCopGame
+    * 截圖:
+      * ![](https://chiakai-chang.github.io/tempHTML/img/WebCopGame.png)
 
 # Chiakai's 混合實境小作品
 * ## 第一人稱視角模擬訓練-執行博弈/詐欺犯罪搜索現場調查

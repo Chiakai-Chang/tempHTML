@@ -101,11 +101,6 @@
   * 請參考教學: [操作教學](https://drive.google.com/file/d/1YeoV7mjYXlExavfmFpZu_emsYBqrIzWC/view?usp=sharing)
   * [![](https://chiakai-chang.github.io/tempHTML/img/BigKeywordsMatcher.jpg)](https://github.com/Chiakai-Chang/BigKeywordsMatcher)
 
-* ## [臉書外洩資訊整理好好查](https://github.com/Chiakai-Chang/2019_FB_Leak_Parser)
-  * 2019年傳超過 2.67 億臉書用戶的帳號、電話號碼和姓名在網路上曝光，此程式協助以關鍵字方式，提供檢索該外洩之個資。
-  * 為防止濫用，此程式設計需於臺中市警局內網，且需登入科偵平臺方可使用，且查詢會留下log。
-  * [![](https://chiakai-chang.github.io/tempHTML/img/fbLeakDataParser.jpg)](https://github.com/Chiakai-Chang/2019_FB_Leak_Parser)
-
 * ## [臺中地區監視器過濾下載器](https://github.com/Chiakai-Chang/AutoCamDownloader)
   * 為解決調閱路口監視器時，要瀏覽或下載監視器必須要安裝很多網頁元件；以網頁觀看歷史影像都需緩存，不便加速回退；看完一段再載下一段，許多時間消耗在空等待；大批調閱時，仍需至GIS地圖查找監視器。
   且重大案件或歹徒不知行向時，要調閱周遭全部監視器就需消耗警力專責調閱等問題。

@@ -176,6 +176,8 @@
       * [![](https://chiakai-chang.github.io/tempHTML/img/CFOS.jpg)](https://github.com/Chiakai-Chang/CodeForensicsOnScene)
   * 截圖：
       * ![](https://chiakai-chang.github.io/tempHTML/img/challenge_1.gif)
+  * 新聞報導：
+      * <iframe width="560" height="315" src="https://www.youtube.com/embed/XtL8z1A1ziM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Chiakai's 資料分析成果展示
 * ## 模擬「臺中地區博奕熱區變化趨勢」地圖

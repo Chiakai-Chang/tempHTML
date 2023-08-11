@@ -177,7 +177,7 @@
   * 截圖：
       * ![](https://chiakai-chang.github.io/tempHTML/img/challenge_1.gif)
   * 新聞報導：
-      * [![https://chiakai-chang.github.io/tempHTML/img/News_PoliceSimulatorGame.png]](https://youtu.be/XtL8z1A1ziM)
+      * [![](https://chiakai-chang.github.io/tempHTML/img/News_PoliceSimulatorGame.png)](https://youtu.be/XtL8z1A1ziM)
 
 # Chiakai's 資料分析成果展示
 * ## 模擬「臺中地區博奕熱區變化趨勢」地圖

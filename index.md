@@ -22,6 +22,16 @@
       * 範例：2001:B400:E2AD:236A:713E:0BF4:804C:1573
    * 所以特別撰寫這個小程式，幫忙將 IPv6 都轉成符合投單調取的格式
 
+* ## [批量 IP HTTP HEAD 確認小幫手](https://colab.research.google.com/drive/1N559gaAMvCnsKWwK3Y3DPUGDI26JGfNc?usp=sharing)
+  * 若您有一批 IP 想了解該 IP 是什麼網站
+  * 除了透過 Reverse IP Lookup 查詢 Domain 以外，。
+  * 也可以針對該 IP 之 80 (http) 或 443 (https) port 發送 HTTP HEAD 請求。
+    * 若該 IP 是 WEB server，就會回應 HTTP Headers，即該網站的 Meta Data，包括：
+      * 伺服器類型，如: CloudFlare, Google 等。
+      * Location，如： 該網頁的域名。
+  * 曾經偵辦案件時取得過某不知身分犯嫌的 IP 連線紀錄，想了解他連線到的 IP 是什麼網站，看有沒有有助於瞭解查明該犯嫌身分的資料，所以撰寫了這個程式。
+    * 想到可能對大家也會有幫助，特別釋出給大家使用。
+
 * ## [大量同格式JSON彙整小幫手](https://colab.research.google.com/drive/1w1ApO_p3zh38ocU6jW5di3LXfeQWA3t6?usp=sharing)
   * 現在的網頁大多都基於 MVC 等架構，除了呈現的網頁以外，背後還會用 ajax 等方式用去存取 API 來獲得要更新顯示的資料(大多為 JSON 格式)。
   * 因為前述 JSON 給的資料往往比網頁上肉眼能看到得「更豐富」，且格式也更容易整理，所以有個小幫手可以幫忙將這些 Json 接收下來，一起轉換成更容易操作的 excel 格式，豈不美哉？

@@ -2,7 +2,7 @@
 * 更新至 2023-11-08
 
 ## 精心研發各種線上偵查小幫手
-* ## 全新改版! [Code Investigater AI 隨身程式碼鑑識小幫手]
+* ## 全新改版! [Code Investigater AI 隨身程式碼鑑識小幫手](https://pse.is/5dt4v2)
   * [![](https://chiakai-chang.github.io/tempHTML/img/Cute_CODE_INVESTIGATOR_AI.png)](https://pse.is/5dt4v2)
   * 為解決執行數位鑑識現場勘查時，遇到「開發人員」相關現場充斥複雜難懂之各種程式碼的問題，該問題令現場查緝人員難以快速瞭解掌握涉案情形或釐清現場人員所言是否真實，特別開發此工具，提供快速分析程式碼並產出報告的功能，協助現場快速掌握涉案狀況。
   * 特色:

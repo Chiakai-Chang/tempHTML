@@ -23,9 +23,9 @@
       * (13) 提供偵查建議
   * 趕快來試用看看吧!!
   * 當前有兩個版本：
-    * ### (舊)[Open AI 平臺](https://pse.is/5dt4v2)
+    * ### (新!) [Open AI 平臺](https://pse.is/5dt4v2)
       * 基於 GPT-4 turbo 語言模型
-    * ### (舊)[POE 平臺](https://poe.com/CodeInvestigate)
+    * ### (舊) [POE 平臺](https://poe.com/CodeInvestigate)
       * 基於 Claude2-100k 語言模型
       * 一天只能查詢 5 筆
 

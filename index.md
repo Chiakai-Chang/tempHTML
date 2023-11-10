@@ -83,7 +83,7 @@
   * 特別開發此工具，藉由 AI 提供快速分析程式碼並產出報告的功能，協助現場快速掌握可疑程式碼作用、可能違法情形與關鍵資訊擷取。
   * [![](https://chiakai-chang.github.io/tempHTML/img/CFOS.jpg)](https://github.com/Chiakai-Chang/CodeForensicsOnScene)
 
-* ## 全新改版! [Code Investigater AI 隨身程式碼鑑識小幫手]
+* ## 全新改版! [Code Investigater AI 隨身程式碼鑑識小幫手](https://pse.is/5dt4v2)
   * [![](https://chiakai-chang.github.io/tempHTML/img/Cute_CODE_INVESTIGATOR_AI.png)](https://pse.is/5dt4v2)
   * 為解決執行數位鑑識現場勘查時，遇到「開發人員」相關現場充斥複雜難懂之各種程式碼的問題，該問題令現場查緝人員難以快速瞭解掌握涉案情形或釐清現場人員所言是否真實，特別開發此工具，提供快速分析程式碼並產出報告的功能，協助現場快速掌握涉案狀況。
   * 特色:
@@ -106,7 +106,7 @@
   * 當前有兩個版本：
     * ### (新!) [Open AI 平臺](https://pse.is/5dt4v2)
       * 基於 GPT-4 turbo 語言模型
-    * ### (舊)[POE 平臺](https://poe.com/CodeInvestigate)
+    * ### (舊) [POE 平臺](https://poe.com/CodeInvestigate)
       * 基於 Claude2-100k 語言模型
       * 一天只能查詢 5 筆
 

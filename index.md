@@ -77,15 +77,10 @@
       * 凱撒加密
       * 二進制轉換 (資安社群常用)
 
-## 精心研發各種小幫手程式 (打包 exe 提供使用)
-* ## [AI智慧程式碼識別小幫手](https://github.com/Chiakai-Chang/CodeForensicsOnScene)
-  * 為解決現場勘查時，遇到屬「程式開發」相關現場，充斥複雜難懂之各種程式碼，令現場查緝人員難以快速瞭解掌握涉案情形或釐清現場人員所言是否真實之情形。
-  * 特別開發此工具，藉由 AI 提供快速分析程式碼並產出報告的功能，協助現場快速掌握可疑程式碼作用、可能違法情形與關鍵資訊擷取。
-  * [![](https://chiakai-chang.github.io/tempHTML/img/CFOS.jpg)](https://github.com/Chiakai-Chang/CodeForensicsOnScene)
-
+## 精心研發各種小幫手程式 (打包 exe 或以 ChatBot 方式提供使用)
 * ## 全新改版! [Code Investigater AI 隨身程式碼鑑識小幫手](https://pse.is/5dt4v2)
   * [![](https://chiakai-chang.github.io/tempHTML/img/Cute_CODE_INVESTIGATOR_AI.png)](https://pse.is/5dt4v2)
-  * 為解決執行數位鑑識現場勘查時，遇到「開發人員」相關現場充斥複雜難懂之各種程式碼的問題，該問題令現場查緝人員難以快速瞭解掌握涉案情形或釐清現場人員所言是否真實，特別開發此工具，提供快速分析程式碼並產出報告的功能，協助現場快速掌握涉案狀況。
+  * 基於執行現場數位勘查鑑識時，偶有遇到「程式開發人員」相關之現場，且現場充斥複雜難懂之各種程式碼的問題，往往致使現場同仁難以快速瞭解掌握涉案情形，或難以釐清現場人員所言是否真實，乃特別開發此工具，協助同仁快速分析程式碼並產出報告的功能，快速掌握現場涉案狀況。
   * 特色:
     * 1、可以直接將程式文檔上傳(如 .html、.py、.bat、.sh、.ps1等)，不用複製貼上。
     * 2、經歷數個月 N 輪的 Promt Engineering (提示工程)實測，目前可實現分析程式並給出以下報告內容: 
@@ -109,6 +104,10 @@
     * ### (舊) [POE 平臺](https://poe.com/CodeInvestigate)
       * 基於 Claude2-100k 語言模型
       * 一天只能查詢 5 筆
+* ## [AI智慧程式碼識別小幫手](https://github.com/Chiakai-Chang/CodeForensicsOnScene)
+  * 為解決現場勘查時，遇到屬「程式開發」相關現場，充斥複雜難懂之各種程式碼，令現場查緝人員難以快速瞭解掌握涉案情形或釐清現場人員所言是否真實之情形。
+  * 特別開發此工具，藉由 AI 提供快速分析程式碼並產出報告的功能，協助現場快速掌握可疑程式碼作用、可能違法情形與關鍵資訊擷取。
+  * [![](https://chiakai-chang.github.io/tempHTML/img/CFOS.jpg)](https://github.com/Chiakai-Chang/CodeForensicsOnScene)
 
 * ## [IPwhois好好查](https://github.com/Chiakai-Chang/CheckIP)
   * 為解決 log 分析時，裡面出現多達千萬、甚至上兆行的資料與IP，由此程式自動化從任意文本資料中，逐行抽取 IP 進行整理，再自動進行 IP Whois 查詢，若係臺灣 IP 就再進一步自動前往 TWNIC 進行 IP Whois 查詢，最後將結果整理成 excel 表格，大量節約同仁查詢耗時與精力。

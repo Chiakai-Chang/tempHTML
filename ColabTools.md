@@ -12,10 +12,10 @@
     * 5、還會幫你使用跨國適當的用詞用語。
   * 趕快來試用看看吧!!
   * 範例:
-    | ![](https://chiakai-chang.github.io/tempHTML/img/CBIA_Start.png) | ![](https://chiakai-chang.github.io/tempHTML/img/CBIA_Chinese.png) |
-    | - | - |
-    | ![](https://chiakai-chang.github.io/tempHTML/img/CBIA_Japanese.png) | ![](https://chiakai-chang.github.io/tempHTML/img/CBIA_English.png) |
-    | ![](https://chiakai-chang.github.io/tempHTML/img/CBIA_China.png) |
+    | ![Start](https://chiakai-chang.github.io/tempHTML/img/CBIA_Start.png =250x250) | ![Chinese](https://chiakai-chang.github.io/tempHTML/img/CBIA_Chinese.png =250x250) |
+    | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+    | ![Japanese](https://chiakai-chang.github.io/tempHTML/img/CBIA_Japanese.png =250x250) | ![English](https://chiakai-chang.github.io/tempHTML/img/CBIA_English.png =250x250) |
+    | ![China](https://chiakai-chang.github.io/tempHTML/img/CBIA_China.png =250x250) | |
 
 * ## 全新改版! [Code Investigater AI 隨身程式碼鑑識小幫手](https://pse.is/5dt4v2)
   * [![](https://chiakai-chang.github.io/tempHTML/img/Cute_CODE_INVESTIGATOR_AI.png)](https://pse.is/5dt4v2)

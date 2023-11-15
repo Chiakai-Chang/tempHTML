@@ -1,7 +1,22 @@
 # Chiakai's Colab 軍火庫
-* 更新至 2023-11-08
+* 更新至 2023-11-15
 
 ## 精心研發各種線上偵查小幫手
+* ## 全新! [Cross-Border Investigation Assistant 跨境偵查小助手](https://chiakai.pse.is/XBIA)
+  * [![](https://chiakai-chang.github.io/tempHTML/img/CBIA.png)](https://chiakai.pse.is/XBIA)
+  * 特色:
+    * 1、協助偵辦跨國案件的 Email 撰寫。
+    * 2、會幫忙提醒要注意食區等等。
+    * 3、不知道可以調什麼，也可以幫你想。
+    * 4、一次產多國語言都可以。
+    * 5、還會幫你使用跨國適當的用詞用語。
+  * 趕快來試用看看吧!!
+  * 範例:
+    | ![](https://chiakai-chang.github.io/tempHTML/img/CBIA.png) | ![](https://chiakai-chang.github.io/tempHTML/img/CBIA_Start.png) |
+    | - | - |
+    | ![](https://chiakai-chang.github.io/tempHTML/img/CBIA_Chinese.png) | ![](https://chiakai-chang.github.io/tempHTML/img/CBIA_Japanese.png) |
+    | ![](https://chiakai-chang.github.io/tempHTML/img/CBIA_English.png) | ![](https://chiakai-chang.github.io/tempHTML/img/CBIA_China.png) |
+
 * ## 全新改版! [Code Investigater AI 隨身程式碼鑑識小幫手](https://pse.is/5dt4v2)
   * [![](https://chiakai-chang.github.io/tempHTML/img/Cute_CODE_INVESTIGATOR_AI.png)](https://pse.is/5dt4v2)
   * 為解決執行數位鑑識現場勘查時，遇到「開發人員」相關現場充斥複雜難懂之各種程式碼的問題，該問題令現場查緝人員難以快速瞭解掌握涉案情形或釐清現場人員所言是否真實，特別開發此工具，提供快速分析程式碼並產出報告的功能，協助現場快速掌握涉案狀況。

@@ -1,4 +1,4 @@
-# Chiakai's 成果展示區
+        # Chiakai's 成果展示區
 
 ## 精心研發各種小幫手程式 (Colab 即取即用，點擊程式名稱即可開啟)
 * ## [臉書好友整理神器](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
@@ -80,6 +80,7 @@
 ## 精心研發各種小幫手程式 (打包 exe 或以 ChatBot 方式提供使用)
 * ## 全新! [Cross-Border Investigation Assistant 跨境偵查小助手](https://chiakai.pse.is/XBIA)
   * [![](https://chiakai-chang.github.io/tempHTML/img/CBIA.png)](https://chiakai.pse.is/XBIA)
+  * 因網路犯罪愈發頻繁，使用境外IP如 VPN、Web Hosting 等躲避查緝的情形也愈發常見。為貫徹刑案偵查並尋求突破可能，特別開發此工具協助同仁在跨國調閱資料時，幫忙提醒應注意事項、提供調閱之建議，並以該國適當的用詞用語協助撰寫資料調閱之 Email，藉以降低同仁跨境追查之協調困難，提升同仁突破困境之意願。
   * 特色:
     * 1、協助偵辦跨國案件的 Email 撰寫。
     * 2、會幫忙提醒要注意時區等等。

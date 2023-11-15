@@ -78,6 +78,31 @@
       * 二進制轉換 (資安社群常用)
 
 ## 精心研發各種小幫手程式 (打包 exe 或以 ChatBot 方式提供使用)
+* ## 全新! [Cross-Border Investigation Assistant 跨境偵查小助手](https://chiakai.pse.is/XBIA)
+  * [![](https://chiakai-chang.github.io/tempHTML/img/CBIA.png)](https://chiakai.pse.is/XBIA)
+  * 特色:
+    * 1、協助偵辦跨國案件的 Email 撰寫。
+    * 2、會幫忙提醒要注意食區等等。
+    * 3、不知道可以調什麼，也可以幫你想。
+    * 4、一次產多國語言都可以。
+    * 5、還會幫你使用跨國適當的用詞用語。
+  * 趕快來試用看看吧!!
+  * 範例:
+    <table>
+      <tr>
+        <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_Start.png" width="250" height="250"></td>
+        <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_Chinese.png" width="250" height="250"></td>
+      </tr>
+      <tr>
+        <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_Japanese.png" width="250" height="250"></td>
+        <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_English.png" width="250" height="250"></td>
+      </tr>
+      <tr>
+        <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_China.png" width="250" height="250"></td>
+        <td></td>
+      </tr>
+    </table>
+    
 * ## 全新改版! [Code Investigater AI 隨身程式碼鑑識小幫手](https://pse.is/5dt4v2)
   * [![](https://chiakai-chang.github.io/tempHTML/img/Cute_CODE_INVESTIGATOR_AI.png)](https://pse.is/5dt4v2)
   * 基於執行現場數位勘查鑑識時，偶有遇到「程式開發人員」相關之現場，且現場充斥複雜難懂之各種程式碼的問題，往往致使現場同仁難以快速瞭解掌握涉案情形，或難以釐清現場人員所言是否真實，乃特別開發此工具，協助同仁快速分析程式碼並產出報告的功能，快速掌握現場涉案狀況。

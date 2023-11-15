@@ -6,7 +6,7 @@
   * [![](https://chiakai-chang.github.io/tempHTML/img/CBIA.png)](https://chiakai.pse.is/XBIA)
   * 特色:
     * 1、協助偵辦跨國案件的 Email 撰寫。
-    * 2、會幫忙提醒要注意食區等等。
+    * 2、會幫忙提醒要注意時區等等。
     * 3、不知道可以調什麼，也可以幫你想。
     * 4、一次產多國語言都可以。
     * 5、還會幫你使用跨國適當的用詞用語。

@@ -12,20 +12,20 @@
     * 5、還會幫你使用跨國適當的用詞用語。
   * 趕快來試用看看吧!!
   * 範例:
-<table>
-  <tr>
-    <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_Start.png" width="250" height="250"></td>
-    <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_Chinese.png" width="250" height="250"></td>
-  </tr>
-  <tr>
-    <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_Japanese.png" width="250" height="250"></td>
-    <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_English.png" width="250" height="250"></td>
-  </tr>
-  <tr>
-    <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_China.png" width="250" height="250"></td>
-    <td></td>
-  </tr>
-</table>
+    <table>
+      <tr>
+        <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_Start.png" width="250" height="250"></td>
+        <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_Chinese.png" width="250" height="250"></td>
+      </tr>
+      <tr>
+        <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_Japanese.png" width="250" height="250"></td>
+        <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_English.png" width="250" height="250"></td>
+      </tr>
+      <tr>
+        <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_China.png" width="250" height="250"></td>
+        <td></td>
+      </tr>
+    </table>
 
 * ## 全新改版! [Code Investigater AI 隨身程式碼鑑識小幫手](https://pse.is/5dt4v2)
   * [![](https://chiakai-chang.github.io/tempHTML/img/Cute_CODE_INVESTIGATOR_AI.png)](https://pse.is/5dt4v2)

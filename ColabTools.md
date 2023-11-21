@@ -108,6 +108,11 @@
          * 該工具僅能查詢 IPv4 的資料
    * 本程式係從官方：AWS IP address ranges 下載最新之 IP 資訊 (Json 檔，含 IPv4 與 IPv6) 進行比對，為最即時、最準確之資料
 
+* ## [IP 與 CIDR (網段) 轉換小幫手](https://colab.research.google.com/drive/1DaA5otkgKxl5jZMMYxu8AJaTclpWdHPE?usp=sharing)
+  * 因偵辦案件需要設 IP 黑名單阻擋涉案網段，若一個一個 IP 輸入費時費工，有時候 IP Whois 結果又只有提供起始、結束的 IP，還要自己換算成 CIDR 表示法。
+  * 故乾脆自己寫一個程式來做轉換，比漫天找網路資源快多了。
+  * 只要輸入起始、結束的 IP，就會自動將這之前所有不同的網段，都改以 CIDR 表示法的方式全部列舉出來。
+
 * ## [地址轉經緯度小幫手](https://colab.research.google.com/drive/1BWleXRAN1vM82-k9lz-O78fPMqBZf581?usp=sharing)
   * 借用內政部國土測繪中心「國土測繪圖資服務雲」之電子地圖，查詢任意地址之完整行政區(至村里鄰)及經緯度。 
 

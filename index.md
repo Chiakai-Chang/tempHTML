@@ -109,8 +109,8 @@
       </tr>
     </table>
     
-* ## 全新改版! [Code Investigater AI 隨身程式碼鑑識小幫手](https://pse.is/5dt4v2)
-  * [![](https://chiakai-chang.github.io/tempHTML/img/Cute_CODE_INVESTIGATOR_AI.png)](https://pse.is/5dt4v2)
+* ## 全新改版! [Code Investigater AI 隨身程式碼鑑識小幫手](https://chiakai.pse.is/CodeInvestigatorAI)
+  * [![](https://chiakai-chang.github.io/tempHTML/img/Cute_CODE_INVESTIGATOR_AI.png)](https://chiakai.pse.is/CodeInvestigatorAI)
   * 基於執行現場數位勘查鑑識時，偶有遇到「程式開發人員」相關之現場，且現場充斥複雜難懂之各種程式碼的問題，往往致使現場同仁難以快速瞭解掌握涉案情形，或難以釐清現場人員所言是否真實，乃特別開發此工具，協助同仁快速分析程式碼並產出報告的功能，快速掌握現場涉案狀況。
   * 特色:
     * 1、可以直接將程式文檔上傳(如 .html、.py、.bat、.sh、.ps1等)，不用複製貼上。

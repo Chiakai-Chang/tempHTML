@@ -1,4 +1,4 @@
-        # Chiakai's 成果展示區
+# Chiakai's 成果展示區
 
 ## 精心研發各種小幫手程式 (Colab 即取即用，點擊程式名稱即可開啟)
 ![](https://chiakai-chang.github.io/tempHTML/img/Logo_AIInsightSEEKER_small.png)

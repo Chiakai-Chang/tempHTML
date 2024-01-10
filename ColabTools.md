@@ -56,7 +56,7 @@
       * 一天只能查詢 5 筆
 
 ## 精心研發各種小幫手程式 (Colab 即取即用，點擊程式名稱即可開啟)
-![](https://chiakai-chang.github.io/tempHTML/img/Logo_AIInsightSEEKER_small)
+![](https://chiakai-chang.github.io/tempHTML/img/Logo_AIInsightSEEKER_small.png)
 
 * ## [洞察 IP 下載 BT 紀錄 AI 小幫手](https://colab.research.google.com/drive/1RU5U7NlONlwYZ8dFhC8eovEF9i5F6VC_?usp=sharing)
    * 緣起:

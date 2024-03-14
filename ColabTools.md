@@ -69,6 +69,17 @@
      * 2. 請選「在雲端硬碟中儲存副本」
      * 3. 恭喜，你已經將本小幫手複製到您的雲端硬碟囉
 
+* ## [網路檔案下載取證小幫手](https://colab.research.google.com/drive/1J0N9pcIxhq9XnSW9QGUpQPJfXGbd9lik?usp=sharing)
+  * 此小幫手旨在協助您從指定網址下載檔案。主要步驟包括：
+    1. 下載並保存檔案。
+    2. 同時保存該檔案的「原始封包」。
+    3. 對下載的檔案和原始封包計算「雜湊值(HASH)」。
+    4. 將上述所有資料壓縮成zip檔，便於封存並下載證據。
+  * 使用此小幫手的優點：
+    1. 透過 Colab 的虛擬主機進行下載，有效隱藏下載者的 IP 地址和裝置資訊，保護您的隱私。
+    2. 結合下載檔案、保存原始封包和雜湊值計算於一體的高效率操作。
+    3. 小幫手的程式碼完全開源，無需安裝任何額外套件，使用透明安全。
+
 * ## [臉書好友整理神器](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
    * 請參考教學: [使用指引](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)
    * 整理大量以往難以人工彙整之臉書留言或按攢者資訊，並用以從事「交集分析」抓出關鍵犯嫌。

@@ -1,6 +1,20 @@
 # Chiakai's 科偵軍火庫
 * 更新至 2024-03-21
 
+## [AI Insight Seeker 網路偵查智慧型管理系統](https://chiakai.pse.is/AIInsightSeeker)
+![](https://chiakai-chang.github.io/tempHTML/img/Logo_AIInsightSEEKER_small.png)
+* [**AI Insight Seeker**](https://chiakai.pse.is/AIInsightSeeker) 是一款專為網路犯罪偵查而設計的創新工具，旨在透過專為資訊爆炸時代科技犯罪偵查之設計，實現對網路犯罪偵查活動的深入洞察、一站式偵查資源快速取用和偵查作為之有效追蹤管理。結合了 Google Sheets 的靈活性和易用性，提供了一個統一的管理平台，使偵查人員能夠有效記錄、追蹤和分享偵查知識和經驗。
+* **核心特色**
+  * **智慧型洞察與管理**：<br>
+    透過整合的儀表板，AI Insight Seeker 為偵查人員提供案件進度、活動完成情況和任務逾期提醒的即時概覽，支持偵查活動的全面管理。
+  * **偵查作為一覽表**：<br>
+    作為知識共享和問題解決的核心，這個工作表詳細記錄每一步偵查行動的規劃、進行狀態和結果，包括預計完成日期和逾期提醒，確保案件追蹤的準確性和時效性。這不僅促進了知識共享，還提高了偵查工作的效率和成效。
+  * **障礙排除記錄**：<br>
+    專門設計來記錄偵查過程中遇到的障礙和延遲原因，這一功能強調了在面對挑戰時的透明度和問題解決策略，促進了團隊間的溝通和協作。
+  * **一站式管理與深度整合工具**：<br>
+    將常用的網路偵查工具如 WHOIS、PingFromEverywhere 等整合於單一平台，方便快速使用和記錄偵查結果，提升偵查效率。
+* 同仁可搭配 [Chiakai's CyberSleuths: Digital Detective Challenge](https://chiakai.pse.is/CyberSleuths) 這個專為訓練網路科技犯罪偵查而設計之事件擬真遊戲，透過各種隨機生成之網路犯罪事件，逐一學習如何進行相關調查與管理相關偵查作為。
+
 ## 科技偵查指令秘笈
 * ## [現場勘查參考(操作系統Log與指令)](https://hackmd.io/@chiakai/OSnCMD)
 
@@ -79,8 +93,6 @@
       * 一天只能查詢 5 筆
 
 ## 精心研發各種小幫手程式 (Colab 即取即用，點擊程式名稱即可開啟)
-![](https://chiakai-chang.github.io/tempHTML/img/Logo_AIInsightSEEKER_small.png)
-
 * ## [洞察 IP 下載 BT 紀錄 AI 小幫手](https://colab.research.google.com/drive/1RU5U7NlONlwYZ8dFhC8eovEF9i5F6VC_?usp=sharing)
    * 緣起:
      * 執行網路案件偵查時，IP 的追查有時候是境外的大家就自動忽略了，但其實 [I Know What You Download](https://iknowwhatyoudownload.com) 網站有提供 IP 對應下載過的 BT 紀錄，還是可以幫忙了解一下該 IP 使用者的一些習性，包括上網時間(是否比較屬於哪個時區的人)、下載的檔案是比較偏哪個語系、是不是都是很專業的工具軟體、是哪方面的專業，還是只是影音娛樂等等。

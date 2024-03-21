@@ -86,14 +86,17 @@
       * (13) 提供偵查建議
   * 趕快來試用看看吧!!
   * 當前有兩個版本：
-    * ### (新!) [Open AI 平臺](https://pse.is/5dt4v2)
-      * 基於 GPT-4 turbo 語言模型
-    * ### (舊) [POE 平臺](https://poe.com/CodeInvestigate)
-      * 基於 Claude2-100k 語言模型
-      * 一天只能查詢 5 筆
+    * ### (新!) [Open AI 平臺](https://chiakai.pse.is/CodeInvestigatorAI)
+      * 語言模型：GPT-4 turbo (數一數二強大)
+      * 次數限制：40筆/3小時
+      * 收費：需有 ChatGPT Plus 資格(20美元/月)
+    * ### (免費! 但結果較不穩定) [POE 平臺](https://chiakai.pse.is/CodeInvestigatorPOE)
+      * 基於 Claude-instant-100k 語言模型
+      * 次數限制：40筆/天
+      * 免費
 
 ## 精心研發各種小幫手程式 (Colab 即取即用，點擊程式名稱即可開啟)
-* ## [洞察 IP 下載 BT 紀錄 AI 小幫手](https://colab.research.google.com/drive/1RU5U7NlONlwYZ8dFhC8eovEF9i5F6VC_?usp=sharing)
+* ## [洞察 IP 下載 BT 紀錄 AI 小幫手](https://chiakai.pse.is/AIBTinsight)
    * 緣起:
      * 執行網路案件偵查時，IP 的追查有時候是境外的大家就自動忽略了，但其實 [I Know What You Download](https://iknowwhatyoudownload.com) 網站有提供 IP 對應下載過的 BT 紀錄，還是可以幫忙了解一下該 IP 使用者的一些習性，包括上網時間(是否比較屬於哪個時區的人)、下載的檔案是比較偏哪個語系、是不是都是很專業的工具軟體、是哪方面的專業，還是只是影音娛樂等等。
      * 因為該網站沒有提供下載成 Excel 或 CSV 格式，且複製到 Excel 都無法正確對應。
@@ -104,7 +107,7 @@
      * 2. 請選「在雲端硬碟中儲存副本」
      * 3. 恭喜，你已經將本小幫手複製到您的雲端硬碟囉
 
-* ## [網路檔案下載取證小幫手](https://colab.research.google.com/drive/1J0N9pcIxhq9XnSW9QGUpQPJfXGbd9lik?usp=sharing)
+* ## [網路檔案下載取證小幫手](https://chiakai.pse.is/DigitalForensicsFileDownloader)
   * 此小幫手旨在協助您從指定網址下載檔案。主要步驟包括：
     1. 下載並保存檔案。
     2. 同時保存該檔案的「原始封包」。

@@ -90,8 +90,8 @@
         <form id="orderForm">
             <select name="model" required>
                 <option value="" disabled selected>選擇型號</option>
-                <option value="IMSI01">IMSI01</option>
-                <option value="IMSI02">IMSI02</option>
+                <option value="Drone-Mounted IMSI Catcher">IMSI01</option>
+                <option value="IMSI Catcher Based on Fixed Wing VTOL UAV">IMSI02</option>
             </select>
             <select name="color" required>
                 <option value="" disabled selected>選擇顏色</option>
@@ -216,7 +216,7 @@
                 mode: 'no-cors' // 使用 no-cors 模式
             }).then(() => {
                 document.getElementById('successMessage').style.display = 'block';
-                alert('恭喜您！成功參與限時優惠，您的訂單已提交！');
+                alert('恭喜您！成功參與限時優惠，您的訂單已提交！\n如有疑問，歡迎透過電話：02-2321-9011與我們聯繫！');
             }).catch(error => {
                 console.error('Error:', error);
                 alert('訂單提交失敗，請稍後再試。');

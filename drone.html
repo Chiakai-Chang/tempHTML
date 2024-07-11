@@ -209,6 +209,7 @@
 
             const queryString = new URLSearchParams(data).toString();
 
+            // Google Sheet 客戶提交資料儲存位置: https://docs.google.com/spreadsheets/d/1UxZR18WzTBhubLshZUoOt5aWBQEjkjX8B9AAeR_qxlY/edit?usp=sharing
             fetch(`https://script.google.com/macros/s/AKfycbzRx1m3OmJYVt2vWutaj5vukcozGRdNbE2zk6D3H9uCchJ-rypN18kBSSHvkRbnb7W6/exec?${queryString}`, {
                 method: 'GET',
                 mode: 'no-cors' // 使用 no-cors 模式

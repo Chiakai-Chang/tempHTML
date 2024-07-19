@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>限時優惠！購買M化無人機，提升執法效率！</title>
+    <title>超限時優惠！搶購 M化無人機，提升執法效率！</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -82,7 +82,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>限時優惠！購買M化無人機，提升執法效率！</h1>
+        <h1>超限時優惠！搶購 M化無人機，提升執法效率！</h1>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/VVKTwv5aLAA?si=esYIjkhuyVTWmjrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <p class="original-price">NT$7688000</p>
         <p class="discount">限時優惠價：NT$148999</p>
@@ -209,9 +209,9 @@
 
             const queryString = new URLSearchParams(data).toString();
 
-            // Google Sheet 客戶提交資料儲存位置: https://docs.google.com/spreadsheets/d/1UxZR18WzTBhubLshZUoOt5aWBQEjkjX8B9AAeR_qxlY/edit?usp=sharing
+            // Google Sheet 客戶提交資料儲存位置: https://docs.google.com/spreadsheets/d/13Nldp92O4QMsgNciEFckudknU-rGX3ietSwPt-ODjkU/edit?usp=sharing
             // 透過以下 Google Apps Script URL 將訂單資料提交到 Google Sheet (URL 只到 /exec，後方"?${queryString}"都是添加參數用)
-            fetch(`https://script.google.com/macros/s/AKfycbzRx1m3OmJYVt2vWutaj5vukcozGRdNbE2zk6D3H9uCchJ-rypN18kBSSHvkRbnb7W6/exec?${queryString}`, {
+            fetch(`https://script.google.com/macros/s/AKfycby9HHazYRi-OMZkmwXqncg4CVlIn2T_Ww7aOSMa0MbBHDuL0_cBQ-PsBI9_twjIPX2rnQ/exec?${queryString}`, {
                 method: 'GET',
                 mode: 'no-cors' // 使用 no-cors 模式
             }).then(() => {
